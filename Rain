@@ -1,0 +1,14 @@
+using System;
+
+namespace Rain
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("It's Very Rainy Lately Isn't?");
+      Console.WriteLine("Be sure to be Preapared");
+      Console.WriteLine("Safety Comes First!");
+    }
+  }
+}
